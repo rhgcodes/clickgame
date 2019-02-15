@@ -13,7 +13,7 @@ const shuffleArray = arr =>
 const initialChars = [
   {
     name: "Goku",
-    img: "img/Goku.png",
+    img: "img/Goku.PNG",
     clicked: false
   },
   {
@@ -23,67 +23,67 @@ const initialChars = [
   },
   {
     name: "18",
-    img: "img/18.png",
+    img: "img/18.PNG",
     clicked: false
   },
   {
     name: "Bulma",
-    img: "img/Bulma.png",
+    img: "img/Bulma.PNG",
     clicked: false
   },
   {
     name: "Cell",
-    img: "img/Cell.png",
+    img: "img/Cell.PNG",
     clicked: false
   },
   {
     name: "Frieza",
-    img: "img/Frieza.png",
+    img: "img/Frieza.PNG",
     clicked: false
   },
   {
     name: "Gohan",
-    img: "img/Gohan.png",
+    img: "img/Gohan.PNG",
     clicked: false
   },
   {
     name: "Krillin",
-    img: "img/Krillin.png",
+    img: "img/Krillin.PNG",
     clicked: false
   },
   {
     name: "MajinBuu",
-    img: "img/MajinBuu.png",
+    img: "img/MajinBuu.PNG",
     clicked: false
   },
   {
     name: "Piccolo",
-    img: "img/Piccolo.png",
+    img: "img/Piccolo.PNG",
     clicked: false
   },
   {
     name: "Roshi",
-    img: "img/Roshi.png",
+    img: "img/Roshi.PNG",
     clicked: false
   },
   {
     name: "Trunks",
-    img: "img/Trunks.png",
+    img: "img/Trunks.PNG",
     clicked: false
   },
   {
     name: "Vegeta",
-    img: "img/Vegeta.png",
+    img: "img/Vegeta.PNG",
     clicked: false
   },
   {
     name: "Chaiotzu",
-    img: "img/Chaiotzu.png",
+    img: "img/Chaiotzu.PNG",
     clicked: false
   },
   {
     name: "Tien",
-    img: "img/Tien.png",
+    img: "img/Tien.PNG",
     clicked: false
   }
 ];

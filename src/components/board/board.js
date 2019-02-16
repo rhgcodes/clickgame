@@ -143,10 +143,10 @@ export default class Board extends Component {
           delay={"1s"}
         >
           <h4>
-            Try to click on every DBZ character once. Once you click a player
+            Try to click on every Dragon Ball character once. Once you click a player
             the grid will shuffle.
             <br />
-            Try not to click the same NBA Player twice or the game will start
+            Try not to click the same Dragon Ball character twice or the game will start
             all over!
           </h4>
         </FadeIn>

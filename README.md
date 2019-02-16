@@ -1,6 +1,3 @@
-<p align="center">
-<a href="https://uncbc-clickygame.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/Clicky-Game/blob/master/public/img/Clicky_Game_Header.png?raw=true" alt="Project logo"/></a>
-</p>
 
 # Clicky-Game
 Penn Coding Bootcamp - Clicky Game (REACT, Heroku)
